@@ -9,3 +9,5 @@ The inventory lists original source paths; it does not bundle 12+ GB of simulati
 Run `python3 build.py` to validate local links and produce dist/ for static hosting.
 
 Clear display filenames are used in portfolio lists; original source code files and function names are unchanged. Repeated datasets are omitted from the curated project lists. FILE_NAME_MAPPING.csv maps the reviewed source files to their portfolio names.
+
+Portfolio site republished
